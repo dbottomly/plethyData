@@ -1,0 +1,8 @@
+Package: plethyData
+Title: Experimental Data Package for plethy
+Version: 0.99.0
+Author: Daniel Bottomly
+Description: Data Package for plehty containing data to accompany the Journal of Statistical Computing article.
+Maintainer: Daniel Bottomly <bottomly@ohsu.edu>
+License: GPL-3
+biocViews: ExperimentData
